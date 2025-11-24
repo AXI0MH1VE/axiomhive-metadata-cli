@@ -4,6 +4,24 @@
 
 GitHub CLI automation tool for batch metadata updates across AxiomHive repositories. This tool enables systematic updates to repository descriptions, homepage URLs, and topics while maintaining complete user control over execution.
 
+---
+
+## Constitutional Framework
+
+![CDA Compliant](https://img.shields.io/badge/CDA-v1.0%20Compliant-brightgreen)
+[![Constitution](https://img.shields.io/badge/Constitution-Read-blue)](https://github.com/AXI0MH1VE/CDA-Constitution)
+
+This project operates under the **[Constitution of a Deterministic Assistant (CDA-v1.0)](https://github.com/AXI0MH1VE/CDA-Constitution)**.
+
+**Core Principles:**
+- 🔍 **Transparency**: All commands auditable - no hidden operations
+- ⚙️ **Determinism**: User-initiated actions only - no autonomous behavior
+- 🤝 **Subservience**: Complete user control - local authentication enforced
+
+See [.github/CONSTITUTION.md](.github/CONSTITUTION.md) for full constitutional text.
+
+---
+
 ## ⚠️ Security & Sovereignty
 
 ### **Critical Principle: You Are the Single Source of Truth**
